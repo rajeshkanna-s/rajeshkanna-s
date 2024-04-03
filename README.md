@@ -7,7 +7,7 @@ Software Engineer @ Kuwy Technology
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />[<img src="https://images-rajesh.s3.amazonaws.com/Profile+Images/icons8-linkedin-188.png" />](https://www.linkedin.com/in/rajeshkanna-s-86a01213b/)[<img src="https://images-rajesh.s3.amazonaws.com/Profile+Images/button-demo.png" />](https://wa.me/qr/C6HOZX6G3URRE1)
+<br />[<img src="https://images-rajesh.s3.amazonaws.com/Profile+Images/icons8-linkedin-188.png" />](https://www.linkedin.com/in/rajeshkanna-s-86a01213b/)[<img src="https://images-rajesh.s3.amazonaws.com/Profile+Images/icons8-whatsapp-94.png" />](https://wa.me/qr/C6HOZX6G3URRE1)
 - 😄 Pronouns: Techie
 
 ### I code in
