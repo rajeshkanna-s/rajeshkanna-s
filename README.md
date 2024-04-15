@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Rajeshkanna
+  ## Hi there 👋 It's me Rajeshkanna
 
 Software Engineer @ Kuwy Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -11,7 +11,7 @@ Software Engineer @ Kuwy Technology
 - 😄 Pronouns: Techie
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_sql.png"/> <img height="50" width="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_angular.png"/> <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/SkillsIcons/icons8-tomcat-32.png"/>  <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/5.png"/>  <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/10.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_sql.png"/> <img height="50" width="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_angular.png"/> <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/SkillsIcons/icons8-tomcat-32.png"/>  <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/4.png"/>  <img height="50" width="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/10.png"/> 
 
 
 
