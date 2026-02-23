@@ -19,8 +19,3 @@ Software Engineer @ Kuwy Technology
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img height="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_git.png"/><img height="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/github-logo-git-hub-icon-on-white-background-free-vector.jpg"/><img height="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_wordpress.png"/><img height="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/13.png"/><img height="50" src="https://images-rajesh.s3.amazonaws.com/Profile%20Images/SkillsIcons/icons8-visual-studio-code-2019-32.png"/><img height="50" src="https://s3.amazonaws.com/coderbytestaticimages/language_logos/skill_logo_excel.png"/>
 
 
-![Rajeshkanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshkanna-s&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rajeshkann_s?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Rajeshkanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeshkanna-s&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
