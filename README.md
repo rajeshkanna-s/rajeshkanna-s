@@ -25,8 +25,7 @@ I'm **Rajeshkanna S**, a Software Engineer and Freelance Web Developer from **Ch
 - 🌐 I build **portfolio websites, business websites & landing pages** for founders, professionals, and small businesses
 - 💡 I bring **enterprise-level quality** to every freelance project
 - 🚀 Delivered **30+ websites** across 15+ industries in India
-- 🌱 Currently deepening skills in **DSA & System Design**
-- 🎯 Goal: Crack **FAANG** placement
+- 🎯 Goal: Build Good Saas products and learn more about tech.
 - 📍 Based in **Chennai, Tamil Nadu**
 - 💬 Ask me about **Java, Spring Boot, React, TypeScript, Web Dev**
 - ⚡ Fun fact: I use **13+ AI tools** to build faster and smarter
