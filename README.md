@@ -32,56 +32,55 @@ I'm **Rajeshkanna S**, a Software Engineer and Freelance Web Developer from **Ch
 
 
 **Self Projects:**
-https://rajeshkanna.in/
-https://zezha.in/
-https://reportsiq.in/
-https://zezhatalent.in/
-https://healthyplates.in/
-https://zezhatools.com/
-https://fitness-advisor.netlify.app/
-https://ai-fin-advisor.netlify.app/
-https://fits5.netlify.app/
-https://restobills.netlify.app/
-https://ragsupportsuite.netlify.app/
-https://aiengineerrdmap.netlify.app/
-https://tamilnadudev.netlify.app/
-https://fintechautomative.netlify.app/
-https://aimarketingengine.netlify.app/
-https://mybiofolio.netlify.app/
-https://parkingmate.netlify.app/
-https://exptkr.netlify.app/
-https://dfits.netlify.app/
-https://aiapiss.netlify.app/
+- [rajeshkanna.in](https://rajeshkanna.in/) — Personal Portfolio & Showcase
+- [zezha.in](https://zezha.in/) — Business & Freelance Platform
+- [reportsiq.in](https://reportsiq.in/) — Business Reports & Analytics IQ
+- [zezhatalent.in](https://zezhatalent.in/) — Talent Showcase & Portal
+- [healthyplates.in](https://healthyplates.in/) — Healthy Eating & Meal Planner
+- [zezhatools.com](https://zezhatools.com/) — Web Utilities & Calculators Hub
+- [fitness-advisor.netlify.app](https://fitness-advisor.netlify.app/) — AI Fitness Advisor
+- [ai-fin-advisor.netlify.app](https://ai-fin-advisor.netlify.app/) — AI Financial Planner
+- [fits5.netlify.app](https://fits5.netlify.app/) — Fitness & Body Mass Index Tool
+- [restobills.netlify.app](https://restobills.netlify.app/) — Restaurant Billing App
+- [ragsupportsuite.netlify.app](https://ragsupportsuite.netlify.app/) — RAG AI Support Suite
+- [aiengineerrdmap.netlify.app](https://aiengineerrdmap.netlify.app/) — AI Engineer Interactive Roadmap
+- [tamilnadudev.netlify.app](https://tamilnadudev.netlify.app/) — Tamil Nadu Developer Hub
+- [fintechautomative.netlify.app](https://fintechautomative.netlify.app/) — Fintech & Automotive Solutions
+- [aimarketingengine.netlify.app](https://aimarketingengine.netlify.app/) — AI Marketing Content Engine
+- [mybiofolio.netlify.app](https://mybiofolio.netlify.app/) — Bio & Link-in-Bio Builder
+- [parkingmate.netlify.app](https://parkingmate.netlify.app/) — Smart Parking Space Finder
+- [exptkr.netlify.app](https://exptkr.netlify.app/) — Expense Tracker
+- [dfits.netlify.app](https://dfits.netlify.app/) — Daily Fitness & Health Calculator
+- [aiapiss.netlify.app](https://aiapiss.netlify.app/) — AI APIs Explorer & Playground
 
+**Clients Projects:**
+- [natarajanwoodcarvings.in](https://natarajanwoodcarvings.in/) — Indian Traditional Wooden Art
+- [woodcalc.netlify.app](https://woodcalc.netlify.app/) — Wooden Box Cost Calculator
+- [flexfitclub.netlify.app](https://flexfitclub.netlify.app/) — Premium Gym & Fitness Club
+- [norapixel.netlify.app](https://norapixel.netlify.app/) — Creative Agency Portfolio
+- [elshaddaiwoods.netlify.app](https://elshaddaiwoods.netlify.app/) — Premium Wooden Doors & Windows Manufacturer
 
-**Clients Project:**
-https://natarajanwoodcarvings.in/
-https://woodcalc.netlify.app/
-https://flexfitclub.netlify.app/
-https://norapixel.netlify.app/
-https://elshaddaiwoods.netlify.app/
-
-**Clients Portfolio Templates**
-https://homeeserv.netlify.app/
-https://brightsmilo.netlify.app/
-https://designerpage.netlify.app/
-https://loves-connect.netlify.app/
-https://the-empire.netlify.app/
-https://tastetable.netlify.app/
-https://lex-co.netlify.app/
-https://pulse-fits.netlify.app/
-https://devcoder.netlify.app/
-https://frame-photographer.netlify.app/
-https://contwriter.netlify.app/
-https://frontee-developer.netlify.app/
-https://labellacasa.netlify.app/
-https://realestatepj.netlify.app/
-https://musebeauty.netlify.app/
-https://energetic-canvas.netlify.app/
-https://arjunprof.netlify.app/
-https://priya-designer.netlify.app/
-https://enscraft-stu.netlify.app/
-https://growth-engine-studio.netlify.app/
+**Clients Portfolio Templates:**
+- [homeeserv.netlify.app](https://homeeserv.netlify.app/) — Home Services Provider
+- [brightsmilo.netlify.app](https://brightsmilo.netlify.app/) — Dental & Orthodontic Clinic
+- [designerpage.netlify.app](https://designerpage.netlify.app/) — UX/UI Designer Portfolio
+- [loves-connect.netlify.app](https://loves-connect.netlify.app/) — Matchmaking & Matrimony Site
+- [the-empire.netlify.app](https://the-empire.netlify.app/) — Real Estate Properties Listing
+- [tastetable.netlify.app](https://tastetable.netlify.app/) — Restaurant Menu & Booking
+- [lex-co.netlify.app](https://lex-co.netlify.app/) — Law Firm & Consultant Website
+- [pulse-fits.netlify.app](https://pulse-fits.netlify.app/) — Gym Trainer & Fitness Coach Portfolio
+- [devcoder.netlify.app](https://devcoder.netlify.app/) — Software Developer Portfolio
+- [frame-photographer.netlify.app](https://frame-photographer.netlify.app/) — Photography Studio Showcase
+- [contwriter.netlify.app](https://contwriter.netlify.app/) — Freelance Content & Copywriter Portfolio
+- [frontee-developer.netlify.app](https://frontee-developer.netlify.app/) — Frontend Developer Portfolio
+- [labellacasa.netlify.app](https://labellacasa.netlify.app/) — Interior Design Studio Website
+- [realestatepj.netlify.app](https://realestatepj.netlify.app/) — Real Estate Agent Portfolio
+- [musebeauty.netlify.app](https://musebeauty.netlify.app/) — Beauty Salon & Spa Website
+- [energetic-canvas.netlify.app](https://energetic-canvas.netlify.app/) — Digital Design Agency Site
+- [arjunprof.netlify.app](https://arjunprof.netlify.app/) — Consultant & Advisor Portfolio
+- [priya-designer.netlify.app](https://priya-designer.netlify.app/) — Graphic Designer Showcase
+- [enscraft-stu.netlify.app](https://enscraft-stu.netlify.app/) — Creative Crafting & Design Studio
+- [growth-engine-studio.netlify.app](https://growth-engine-studio.netlify.app/) — Business Growth Consultancy
 
 <br clear="right"/>
 
