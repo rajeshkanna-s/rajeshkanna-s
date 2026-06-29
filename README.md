@@ -52,6 +52,7 @@ I'm **Rajeshkanna S**, a Software Engineer and Freelance Web Developer from **Ch
 - [exptkr.netlify.app](https://exptkr.netlify.app/) — Expense Tracker
 - [dfits.netlify.app](https://dfits.netlify.app/) — Daily Fitness & Health Calculator
 - [aiapiss.netlify.app](https://aiapiss.netlify.app/) — AI APIs Explorer & Playground
+- [Smart-Bible](https://smartbible.netlify.app/) — AI Explained Smart Bible
 
 **Clients Projects:**
 - [natarajanwoodcarvings.in](https://natarajanwoodcarvings.in/) — Indian Traditional Wooden Art
