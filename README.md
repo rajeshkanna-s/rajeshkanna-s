@@ -53,6 +53,7 @@ I'm **Rajeshkanna S**, a Software Engineer and Freelance Web Developer from **Ch
 - [dfits.netlify.app](https://dfits.netlify.app/) — Daily Fitness & Health Calculator
 - [aiapiss.netlify.app](https://aiapiss.netlify.app/) — AI APIs Explorer & Playground
 - [Smart-Bible](https://smartbible.netlify.app/) — AI Explained Smart Bible
+- [AI Prompt generator](https://promptcrafty.netlify.app/) — AI Prompt Generator for all types
 
 **Clients Projects:**
 - [natarajanwoodcarvings.in](https://natarajanwoodcarvings.in/) — Indian Traditional Wooden Art
